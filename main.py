@@ -10,7 +10,7 @@ import os
 import hashlib
 from datetime import datetime
 
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "8534037698:AAHBeBUn5P7XvEcHsu2sTRpvJRU9xXT9VpY")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8446798065:AAGmARwAAVU5Zkd9sxpd_SqDdNusAYCJfts")
 DEFAULT_OWNERS = [7011937754]
 
 if not BOT_TOKEN:
