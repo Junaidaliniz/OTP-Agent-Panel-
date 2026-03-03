@@ -1,3 +1,4 @@
-python-telegram-bot==21.3
-phonenumbers==8.13.39
-requests==2.31.0
+python-telegram-bot
+requests
+phonenumbers
+asyncio
